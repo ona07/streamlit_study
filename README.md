@@ -1,3 +1,3 @@
 # streamlit_study
-This is "streamlit_study" repozitory!
-I study stremlit here.
+#This is "streamlit_study" repository!
+#I study streamlit here.
